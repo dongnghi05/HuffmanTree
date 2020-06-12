@@ -1,0 +1,26 @@
+Parameter 0 :./huffman
+Parameter 1 :-encode
+Parameter 2 :test-file-0.txt
+Parameter 3 :test-file-0.encoded
+File to encoding: {key:  , code 11}
+{key: a, code 011}
+{key: e, code 0010}
+{key: o, code 0100}
+{key: u, code 0101}
+{key: r, code 1000}
+{key: n, code 1010}
+{key: i, code 00000}
+{key: s, code 00001}
+{key: l, code 00010}
+{key: d, code 00111}
+{key: p, code 10011}
+{key: m, code 10110}
+{key: t, code 10111}
+{key: c, code 000111}
+{key: CR, code 001100}
+{key: q, code 001101}
+{key: g, code 100100}
+{key: b, code 100101}
+{key: h, code 0001100}
+{key: z, code 00011010}
+{key: f, code 00011011}
